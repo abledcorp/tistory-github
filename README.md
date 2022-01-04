@@ -20,3 +20,4 @@ System.out.println(companyName + "는 지속성장 가능하고 일잘하는 개
 
 [에이블디 기술 블로그](https://abled.tistory.com, "에이블디의 기술 블로그")
 
+![에이블디 로고](https://abledcorp.com/src/icons/abled_logo.svg)
